@@ -1,4 +1,3 @@
-# Retail_Sales_Performance_Analysis_Lizzy
 
 # Retail Sales Performance Analysis
 
